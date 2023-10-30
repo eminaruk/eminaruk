@@ -35,13 +35,10 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
-
-<img src="https://raw.githubusercontent.com/eminaruk/eminaruk/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="right" height="200" src="https://wallpapercave.com/dwp2x/wp8580192.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif"  />
 
 ###
 
