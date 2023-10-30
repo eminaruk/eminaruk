@@ -20,9 +20,7 @@
   <a href="https://medium.com/@eminaruk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="byemin00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  
 </div>
 
 ###
