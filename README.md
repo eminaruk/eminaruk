@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eminaruk.eminaruk&"  />
+  <img src="[https://visitor-badge.laobi.icu/badge?page_id=eminaruk.eminaruk&](https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif)"  />
 </div>
 
 ###
