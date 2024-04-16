@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" src="https://static.vecteezy.com/system/resources/previews/027/924/228/non_2x/round-code-mark-icon-programming-and-coding-symbol-vector.jpg"  />
+  <i class="fa-solid fa-code"></i>
 </div>
 
 ###
