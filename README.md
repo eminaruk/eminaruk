@@ -1,4 +1,4 @@
-<div align="center">[
+<div align="center">
   <img height="150" src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png"/>
   
 </div>
